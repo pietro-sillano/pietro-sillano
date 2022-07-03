@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently finishing my master degree in Physics of Complex Systems at Turin University
-- 👯 From september I will move to the SISSA, in Trieste, for my master thesis with A. Rosa 
+- 👯 From september I will move to the SISSA, in Trieste, for my master thesis with A. Rosa on "MD and montecarlo simulation of Biopolymers"
 - 📫 How to reach me: pietrosillano@gmail.com
   
 
